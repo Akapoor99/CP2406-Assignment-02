@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="javafx.base">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../lib/javaFx/javafx-sdk-13.0.1/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../lib/javaFx/javafx-sdk-13.0.1/lib" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../lib/javaFx/javafx-sdk-13.0.1/lib" />
+      <root url="file://$PROJECT_DIR$/../lib/javaFx/javafx-sdk-13.0.1/lib/javafx.base" />
+      <root url="file://$PROJECT_DIR$/../lib/javaFx/javafx-sdk-13.0.1/lib/javafx.controls" />
+      <root url="file://$PROJECT_DIR$/../lib/javaFx/javafx-sdk-13.0.1/lib/javafx.fxml" />
+      <root url="file://$PROJECT_DIR$/../lib/javaFx/javafx-sdk-13.0.1/lib/javafx.graphics" />
+      <root url="file://$PROJECT_DIR$/../lib/javaFx/javafx-sdk-13.0.1/lib/javafx.media" />
+      <root url="file://$PROJECT_DIR$/../lib/javaFx/javafx-sdk-13.0.1/lib/javafx.swing" />
+      <root url="file://$PROJECT_DIR$/../lib/javaFx/javafx-sdk-13.0.1/lib/javafx.web" />
+      <root url="file://$PROJECT_DIR$/../lib/javaFx/javafx-sdk-13.0.1/lib/src/javafx.base" />
+      <root url="file://$PROJECT_DIR$/../lib/javaFx/javafx-sdk-13.0.1/lib/src/javafx.controls" />
+      <root url="file://$PROJECT_DIR$/../lib/javaFx/javafx-sdk-13.0.1/lib/src/javafx.fxml" />
+      <root url="file://$PROJECT_DIR$/../lib/javaFx/javafx-sdk-13.0.1/lib/src/javafx.graphics" />
+      <root url="file://$PROJECT_DIR$/../lib/javaFx/javafx-sdk-13.0.1/lib/src/javafx.media" />
+      <root url="file://$PROJECT_DIR$/../lib/javaFx/javafx-sdk-13.0.1/lib/src/javafx.swing" />
+      <root url="file://$PROJECT_DIR$/../lib/javaFx/javafx-sdk-13.0.1/lib/src/javafx.web" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../lib/javaFx/javafx-sdk-13.0.1/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../lib/javaFx/javafx-sdk-13.0.1/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
